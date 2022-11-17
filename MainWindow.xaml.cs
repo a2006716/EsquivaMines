@@ -23,6 +23,7 @@ namespace EsquivaMines
         public MainWindow()
         {
             InitializeComponent();
+            //test commit
         }
     }
 }
