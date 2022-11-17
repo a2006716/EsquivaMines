@@ -23,6 +23,8 @@ namespace EsquivaMines
         public MainWindow()
         {
             InitializeComponent();
+
+            //HOLA SOC L'ORIOL
         }
     }
 }
