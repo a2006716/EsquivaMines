@@ -25,6 +25,7 @@ namespace EsquivaMines
             InitializeComponent();
 
             
+            
             //HOLA SOC L'ORIOL
             //joc2
         }
