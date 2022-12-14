@@ -24,6 +24,7 @@ namespace EsquivaMines
         {
             InitializeComponent();
             //test commit
+            //patata
         }
     }
 }
