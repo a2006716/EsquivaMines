@@ -26,7 +26,7 @@ namespace EsquivaMines
 
             
             //HOLA SOC L'ORIOL
-            //joc
+            //joc2
         }
     }
 }
